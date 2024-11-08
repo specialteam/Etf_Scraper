@@ -37,5 +37,4 @@ where `path_to_script` should be replaced with the actual path to the script fil
 This project is released under the MIT License. See the LICENSE file for more details.
 
 ## Contributing
-Contributions are welcome! Please refer to CONTRIBUTING.md for more information on how to participate in the project.
-
+Contributions are welcome! 
